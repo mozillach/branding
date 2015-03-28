@@ -1,0 +1,3 @@
+# MozillaCH branding
+
+Logos, etc..
