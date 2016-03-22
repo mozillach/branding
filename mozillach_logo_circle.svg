@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.1" viewBox="-16 -16 32 32">
+
+  <title>mozilla.ch - logo</title>
+
+  <desc>
+    This is Mozilla Switzerland's official logo.
+    The canvas is a circle.
+    There's a solid red background, a large white
+    letter "m" at the bottom and a small white
+    Swiss cross in the top right corner.
+  </desc>
+
+  <circle id="background" fill="#c33" r="50%" />
+
+  <path id="mozilla_logo" fill="#fff"
+        d="m-7,-4 q0.3,0.5 0.5,1.5
+           c2,-2 6,-2 7.5,0.5
+           c3,-3 9,-3 8.75,2.75
+           v11 h-4 v-10 q0,-4 -4,-1
+           v11 h-4 v-10 q0,-4 -4,-1
+           v11 h-4 v-10 q0,-3.5 -0.5,-4.75 z" />
+
+  <g id="swiss_cross" fill="#fff">
+    <rect x="23.5%" y="-38.5%" width="7%" height="23%" />
+    <rect x="15.5%" y="-30.5%" width="23%" height="7%" />
+  </g>
+
+</svg>
+
