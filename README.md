@@ -5,7 +5,7 @@ Logos, etc..
 ## Pictures
 The [pictures](pictures/) directory contains pictures of the mozilla.ch wordmark and logo. These are split into unedited and edited (cut and color corrected).
 
-The naming scheme goes along `mozillach_{logo type}-{short description}[number].JPG`.
+The naming scheme goes along `mozillach_{logo type}-{short description}[_purpose][number].JPG`.
 The logo types currently are
   - `wordmark`
   - `logo`
